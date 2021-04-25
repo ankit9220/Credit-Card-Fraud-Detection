@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-Detection
-Capstone Project for UPGRAD
+Machine Learning-ML model to self-identify fraudulent credit card transactions
+
